@@ -1,3 +1,55 @@
 *  {
     box-sizing: border-box;
 }
+
+/*
+nav {
+} 
+da fixare
+
+
+
+main{
+    width: 100%;
+    padding: 20px;
+
+}
+*/
+
+.button-1 {
+
+}
+
+.button-2 {
+
+}
+
+/* Creazioni 'to do/not to do*/
+
+.v-verde{
+            width: 30px;
+            height: 30px;
+            border: 2px solid green;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 24px;
+            color: green;
+            
+            
+
+}
+
+.x-rossa{
+    width: 30px;
+    height: 30px;
+    border: 2px solid red;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: red;
+
+}
