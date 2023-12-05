@@ -43,6 +43,16 @@ hr {
 
 /* Creazioni 'to do/not to do*/
 
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    align-items: center;
+}
+
 .v-verde{
             width: 30px;
             height: 30px;
@@ -53,7 +63,7 @@ hr {
             align-items: center;
             font-size: 24px;
             color: green;
-            
+            margin-right: 15px;
             
 
 }
@@ -68,5 +78,6 @@ hr {
     align-items: center;
     font-size: 24px;
     color: red;
+    margin-right: 15px;
 
 }
