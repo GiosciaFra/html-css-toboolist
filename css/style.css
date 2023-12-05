@@ -2,18 +2,14 @@
     box-sizing: border-box;
 }
 
+nav {
+    background-color: white;
+}
+
 body {
     font-family: sans-serif;
     background-color: ghostwhite;
 }
-
-/* img{
-    padding-top: 25px;
-}
-
-DA FIXARE
- */
-
 
 
 p {
@@ -36,8 +32,11 @@ vertical-align: middle;
 main{
     padding-top: 50px;
     padding-left: 200px;
-    padding-right: 200px;
+    padding-bottom: 50px;
     background-color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
 }
 
 
