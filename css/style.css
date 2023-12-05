@@ -81,3 +81,41 @@ li {
     margin-right: 15px;
 
 }
+
+/* stile bottoni laterali to-do */
+.editorial, .websites, .sales, .mobile, .recruiting, .q1goals {
+
+    border: 1px solid;
+    border-radius: 25px;
+    padding: 5px 10px;
+    font-size: 9px;
+    margin-left: 10px;
+    color: white;
+
+}
+
+.editorial{
+    background-color: rgb(71, 173, 241);
+
+}
+
+.mobile{
+    background-color: orange;
+}
+
+.q1goals{
+    background-color: purple;
+
+}
+
+.recruiting{
+    background-color: green;
+}
+
+.websites {
+    background-color: plum;
+}
+
+.sales {
+    background-color: greenyellow;
+}
