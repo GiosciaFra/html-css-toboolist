@@ -16,12 +16,29 @@ main{
 }
 */
 
-.button-1 {
+/* Creazione pulsanti */
 
+.button-1 {
+    background-color: rgb(71, 173, 241);
+    color: white;
+    border: 1px solid rgb(71, 173, 241);
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 14px;
 }
 
 .button-2 {
+    background-color: white;
+    color: grey;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 14px;
 
+}
+
+hr {
+    color: grey;
 }
 
 /* Creazioni 'to do/not to do*/
