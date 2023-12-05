@@ -2,19 +2,37 @@
     box-sizing: border-box;
 }
 
-/*
-nav {
-} 
-da fixare
+body {
+    font-family: sans-serif;
+    background-color: ghostwhite;
+}
+
+/* img{
+    padding-top: 25px;
+}
+
+DA FIXARE
+ */
+
+
+
+p {
+    display: inline-block;
+    color: rgb(6, 27, 50);
+    font-weight: 750;
+    font-size: xx-large;
+
+}
 
 
 
 main{
-    width: 100%;
-    padding: 20px;
-
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+    background-color: white;
 }
-*/
+
 
 /* Creazione pulsanti */
 
