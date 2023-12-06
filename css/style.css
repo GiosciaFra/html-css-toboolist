@@ -4,6 +4,7 @@
 
 nav {
     background-color: white;
+    padding: 12px 28px;
 }
 
 body {
@@ -12,7 +13,7 @@ body {
 }
 
 
-p {
+h1 {
     display: inline-block;
     color: rgb(6, 27, 50);
     font-weight: 850;
@@ -26,7 +27,7 @@ div {
 }
 
 img{
-vertical-align: middle;
+    vertical-align: middle;
 
 }
 main{
